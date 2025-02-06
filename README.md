@@ -33,7 +33,7 @@ Buscando aperfeiçoar minhas habilidades e conhecimento na área de programaçã
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="175" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=luisfreits&show_icons=true&bg_color=00000000&include_all_commits=true&locale=pt-br" 
   />
@@ -41,7 +41,7 @@ Buscando aperfeiçoar minhas habilidades e conhecimento na área de programaçã
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="175" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfreits&bg_color=00000000&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
