@@ -1,11 +1,48 @@
-<h2>✨Luís Freitas</h2>
+## Hello World!
+###
+Me chamo Luís, tenho 16 anos e sou natural de Minas Gerais, atualmente estou cursando Técnico em Informática na UNIPAM
 
-Me chamo Luís, tenho 16 anos e sou natural de Minas Gerais. Cursando Técnico em Informática na UNIPAM (1/2)
-##
-![Luis Freitas](https://github-readme-stats.vercel.app/api?username=luisfreits&show_icons=true&theme=graywhite&bg_color=00000000#gh-light-mode-only)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfreits&layout=compact&theme=graywhite&bg_color=00000000#gh-light-mode-only)
-
+Buscando aperfeiçoar minhas habilidades e conhecimento na área de programação
 ##
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luisfreits&repo=faixa-etaria&theme=graywhite&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+### Habilidades em Desenvolvimento
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<br>
+
+##    
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=luisfreits&show_icons=true&bg_color=00000000&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfreits&bg_color=00000000&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
