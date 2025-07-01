@@ -1,7 +1,5 @@
 ## Hello World!
 ###
-Me chamo Luís, tenho 17 anos e sou natural de Minas Gerais, atualmente estou cursando Técnico em Informática na UNIPAM
-
 Buscando aperfeiçoar minhas habilidades e conhecimento na área de programação
 ##
 
