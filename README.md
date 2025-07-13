@@ -49,7 +49,7 @@ Buscando aperfeiçoar minhas habilidades e conhecimento na área de programaçã
       align="left" 
       alt="GitHub Stats" 
       height="160" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfreits&bg_color=00000000&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfreits&bg_color=00000000&layout=compact&custom_title=Tecnologias"
   />
 
 </p>
