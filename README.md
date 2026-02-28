@@ -13,11 +13,28 @@ Buscando aperfeiçoar minhas habilidades e conhecimento na área de programaçã
 />
 <img 
     align="left" 
+    alt="C++"
+    title="C++" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+/>
+          
+<img 
+    align="left" 
     alt="JavaScript"
     title="JavaScript" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="mysql"
+    title="mysql" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 <img 
     align="left" 
@@ -43,20 +60,4 @@ Buscando aperfeiçoar minhas habilidades e conhecimento na área de programaçã
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
-
-<br>
-
-##    
-
-<p align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="160" 
-    src="https://github-readme-stats.vercel.app/api?username=luisfreits&show_icons=true&bg_color=00000000&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="GitHub Stats" 
-    height="160" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfreits&bg_color=00000000&layout=compact&custom_title=Tecnologias"
-  />
 </p>
