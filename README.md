@@ -26,6 +26,6 @@ Buscando aperfeiçoar minhas habilidades e conhecimento na área de programaçã
   />
   <img 
     height="180em" 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=luisfreits&layout=compact&langs_count=7&theme=tokyonight"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=luisfreits&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=aedes-adventure"
   />
 </p>
